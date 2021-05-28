@@ -28,4 +28,6 @@
     </span>
     <button type="button" class="btn btn-primary"><b>Inscribete</b></button>
     <button type="button" class="btn btn-primary"><b>Acceso</b></button>
+    <button type="button" class="btn btn-primary"><b>Acceso</b></button>
 </nav>
+
