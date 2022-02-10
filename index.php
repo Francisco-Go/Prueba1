@@ -24,10 +24,11 @@
         <a id="nav2" class="nav-link submenu-btn dropdown-toggle" href="#">Blog</a>
       </li>
     </ul>
-    <span class="navbar-text">
-    </span>
+    <span class="navbar-text"></span>
     <button type="button" class="btn btn-primary"><b>Inscribete</b></button>
     <button type="button" class="btn btn-primary"><b>Acceso</b></button>
     <button type="button" class="btn btn-primary"><b>Acceso</b></button>
+  </div>
 </nav>
 
+<h1>Esto es una prueba desde visual y github</h1>
